@@ -17,7 +17,7 @@ import (
 	"time"
 
 	"github.com/datastax/cql-proxy/astra"
-	"github.com/gocql/gocql"
+	"github.com/absurdfarce/gocql"
 )
 
 const AstraAPIURL = "https://api.astra.datastax.com"

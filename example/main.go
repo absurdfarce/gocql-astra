@@ -8,7 +8,7 @@ import (
 
 	"github.com/alecthomas/kong"
 	gocqlastra "github.com/datastax/gocql-astra"
-	"github.com/gocql/gocql"
+	"github.com/absurdfarce/gocql"
 )
 
 type runConfig struct {

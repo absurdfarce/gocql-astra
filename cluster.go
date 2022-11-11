@@ -3,7 +3,7 @@ package gocqlastra
 import (
 	"time"
 
-	"github.com/gocql/gocql"
+	"github.com/absurdfarce/gocql"
 )
 
 func NewClusterFromBundle(path, username, password string, timeout time.Duration) (*gocql.ClusterConfig, error) {
