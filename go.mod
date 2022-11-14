@@ -3,7 +3,7 @@ module github.com/absurdfarce/gocql-astra
 go 1.18
 
 require (
-	github.com/absurdfarce/gocql v1.2.2-0.20221111205558-be48b2d0cef2
+	github.com/absurdfarce/gocql v1.2.2-0.20221114225005-8a6dae2b3be2
 	github.com/alecthomas/kong v0.6.1
 	github.com/datastax/cql-proxy v0.1.3
 	github.com/datastax/gocql-astra v0.0.0-20220825200745-7aa1e2624df1

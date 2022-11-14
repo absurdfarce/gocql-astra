@@ -2,6 +2,8 @@ github.com/absurdfarce/gocql v1.2.2-0.20221111171922-dc48bfb2a685 h1:xSJzdu9kWmL
 github.com/absurdfarce/gocql v1.2.2-0.20221111171922-dc48bfb2a685/go.mod h1:Nz/xD21seXmk+tfcwglmWxlItCfFmsjoHmTT6H4LCyw=
 github.com/absurdfarce/gocql v1.2.2-0.20221111205558-be48b2d0cef2 h1:XLnYRpuVLHKrCrw6GTtCH4S0B3tkx07zchJmaKaXNAE=
 github.com/absurdfarce/gocql v1.2.2-0.20221111205558-be48b2d0cef2/go.mod h1:Nz/xD21seXmk+tfcwglmWxlItCfFmsjoHmTT6H4LCyw=
+github.com/absurdfarce/gocql v1.2.2-0.20221114225005-8a6dae2b3be2 h1:V1/H1Ma4R1F7lssWrQXo2GmOmYBfaWDOtvU31g2XrAM=
+github.com/absurdfarce/gocql v1.2.2-0.20221114225005-8a6dae2b3be2/go.mod h1:Nz/xD21seXmk+tfcwglmWxlItCfFmsjoHmTT6H4LCyw=
 github.com/alecthomas/kong v0.2.17/go.mod h1:ka3VZ8GZNPXv9Ov+j4YNLkI8mTuhXyr/0ktSlqIydQQ=
 github.com/alecthomas/kong v0.6.1 h1:1kNhcFepkR+HmasQpbiKDLylIL8yh5B5y1zPp5bJimA=
 github.com/alecthomas/kong v0.6.1/go.mod h1:JfHWDzLmbh/puW6I3V7uWenoh56YNVONW+w8eKeUr9I=
